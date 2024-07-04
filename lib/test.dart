@@ -12,11 +12,8 @@ import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:hieroglyphic_app/Screens/result_page.dart';
 import 'package:hieroglyphic_app/Screens/zoom/new_meeting.dart';
 import 'package:path_provider/path_provider.dart';
-import 'package:tflite/tflite.dart';
 import 'package:zego_uikit_prebuilt_video_conference/zego_uikit_prebuilt_video_conference.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
 
-import '../compenets/constants.dart';
 import '../main.dart';
 
 class Test extends StatefulWidget {
