@@ -1,0 +1,35 @@
+{
+    "reslutPage": "Results",
+    "favouritTitle": "Favourite Page",
+    "arabicLanguage": "Arabic",
+    "englishLanguage": "English",
+    "loginAppBar": "Login",
+    "registerAppBar": "Register",
+    "homeTitle":"Home Page",
+    "testReal":"Real Model",
+    "testCamera":"Test Camera",
+    "pdf":"Materiales",
+    "selectPdf":"Select Pdf",
+    "upLoadPdf":"Upload Pdf",
+    "zoom":"Meeting",
+    "join":"Join",
+    "joinWithCode":"Join With Code",
+    "shareInvite":"Share Invite",
+    "startMeeting":"New Meeting",
+    "startCall":"Start Call",
+    "meetingCode":"Meeting Code",
+    "exampleCode":"Example : 123-456",
+    "logOut":"Logout",
+    "setting":"Setting",
+    "lecture":"Lecture",
+    "chat":"Chat",
+    "sendMessage":"Send Message",
+    "quiz":"Quiz",
+    "startquiz":"Start Quiz",
+    "quizResults":"Quiz Results"
+    
+
+
+
+
+}

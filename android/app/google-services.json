@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "29589868853",
+    "project_id": "hieroglyphic-app",
+    "storage_bucket": "hieroglyphic-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29589868853:android:7c22c2e0ba169679a33c7c",
+        "android_client_info": {
+          "package_name": "com.example.hieroglyphic_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUS51lPYpIMtJZWkctx6VWx-ZrateDae0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
